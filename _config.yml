@@ -1,6 +1,6 @@
 auto: false 
 source: .
-destination: /public
+destination: ./public
 include: ['.htaccess']
 future: true
 show_drafts: nil
