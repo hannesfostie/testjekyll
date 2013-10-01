@@ -17,8 +17,8 @@ namespace :deploy do
   task :update_jekyll do
     # This will just generate the statis files, this will NOT start a jekyll server.
     # The utf-8 is to make sure you can use special characters in your files.
-    run "cd #{latest_release} && LC_ALL='en_US.UTF-8' sass --update _sass:css -f -l"
-    run "cd #{latest_release} && LC_ALL='en_US.UTF-8' jekyll build"
+    run "cd #{latest_release} && LC_ALL='en_US.UTF-8' bundle exec sass --update _sass:css -f"
+    run "cd #{latest_release} && LC_ALL='en_US.UTF-8' bundle exec jekyll build"
   end
 
 end
