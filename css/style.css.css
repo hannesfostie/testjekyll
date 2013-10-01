@@ -1,0 +1,69 @@
+/* line 3, ../_sass/style.css.scss */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative; }
+
+/* line 12, ../_sass/style.css.scss */
+.wrap {
+  max-width: 800px;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 4.5rem 1.5rem 3rem; }
+
+/* line 20, ../_sass/style.css.scss */
+p, ul, ol, dl, table, pre, form,
+h2, h3 {
+  margin-bottom: 30px;
+  margin-bottom: 1.5rem; }
+
+/* line 25, ../_sass/style.css.scss */
+h1 {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 52px;
+  font-size: 2.618rem;
+  line-height: 1; }
+
+/* line 33, ../_sass/style.css.scss */
+h2 {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 16px;
+  font-size: .8rem;
+  line-height: 1.5; }
+
+/* line 42, ../_sass/style.css.scss */
+small {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+  font-size: .8rem;
+  line-height: 1; }
+
+/* line 49, ../_sass/style.css.scss */
+a {
+  color: #1385ef;
+  text-decoration: none; }
+
+/* line 54, ../_sass/style.css.scss */
+a:hover {
+  text-decoration: underline; }
+
+/* line 58, ../_sass/style.css.scss */
+html {
+  font: 125%/1.5 freight-text-pro, serif;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  font-family: ff-meta-serif-web-pro, serif; }
+
+@media screen and (max-width: 650px) {
+  /* line 66, ../_sass/style.css.scss */
+  html {
+    font-size: 100%; } }
+/* line 71, ../_sass/style.css.scss */
+.sans, small, .footer {
+  font-family: ff-meta-web-pro, sans-serif; }
