@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Introduce yourself
+title: GANS KAPOT
 subtitle: Conference conversation starter
 ---
 
