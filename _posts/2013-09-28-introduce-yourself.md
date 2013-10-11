@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: GANS KAPOT AJA
+title: GANS KAPOT
 subtitle: Conference conversation starter
 ---
 
