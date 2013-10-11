@@ -1,7 +1,8 @@
 ---
-layout: post 
-title: GANS KAPOT
+layout: post
+title: NOG ALTIJD GANS KAPOT
 subtitle: Conference conversation starter
+published: true
 ---
 
 An article on [Fuck Jet Packs](http://fuckjetpacks.com/read/XOXO_is_reproducible) earlier this week about the XOXO conference contained a quote by [Andy Baio](http://twitter.com/waxpancake) that really struck home:
